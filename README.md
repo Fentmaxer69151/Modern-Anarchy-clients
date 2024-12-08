@@ -12,8 +12,6 @@ Fent: will be created some time in mid 2025
 Impact: https://impactclient.net/
 Thunderhack recode: https://github.com/Pan4ur/ThunderHack-Recode/releases
 Temple rewrite (coming soon): https://templecheats.xyz/index.html
-All those shitty ghost clients
-Those shitty blatant clients
 Coffee: https://github.com/Coffee-Client/Coffee
 Blackout (not the one you're thinking of): https://github.com/chell-dev/Blackout-3.0
 Interia: https://inertiaclient.com/
